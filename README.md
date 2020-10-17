@@ -1,1 +1,1 @@
-# Dynamite-Calculator-JavaScript-Edition
+# Dynamite-Calculator-Web-Edition
